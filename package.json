@@ -1,0 +1,23 @@
+{
+  "name": "nativetemplate",
+  "version": "1.0.0",
+  "description": "Native's template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NativeBot/NativeTemplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NativeBot/NativeTemplate/issues"
+  },
+  "homepage": "https://github.com/NativeBot/NativeTemplate#readme",
+  "dependencies": {
+    "better-sqlite3": "^7.4.3",
+    "discord.js": "^13.1.0"
+  }
+}
